@@ -1,0 +1,27 @@
+Project Structure
+=================
+
+```
+my_project/
+├── src/
+│   ├── __init__.py
+│   ├── main.py
+│   └── utils.py
+├── tests/
+│   ├── __init__.py
+│   └── test_main.py
+├── docs/
+│   └── README.md
+├── .gitignore
+├── requirements.txt
+├── setup.py
+└── README.md
+```
+
+- **src/**: Source code of the application.
+- **tests/**: Unit and integration tests.
+- **docs/**: Documentation files.
+- **.gitignore**: Git ignore rules.
+- **requirements.txt**: Python dependencies.
+- **setup.py**: Packaging script.
+- **README.md**: Project overview and usage instructions.

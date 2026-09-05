@@ -1,0 +1,23 @@
+FRANKBOARD/
+├─ src/
+│  ├─ index.js
+│  ├─ App.jsx
+│  ├─ components/
+│  │   ├─ Board.jsx
+│  │   ├─ Card.jsx
+│  │   └─ Column.jsx
+│  ├─ store/
+│  │   ├─ index.js
+│  │   └─ boardSlice.js
+│  └─ styles/
+│      └─ main.css
+├─ public/
+│   ├─ index.html
+│   └─ favicon.ico
+├─ tests/
+│   ├─ App.test.jsx
+│   └─ Board.test.jsx
+├─ .gitignore
+├─ package.json
+├─ README.md
+└─ webpack.config.js
